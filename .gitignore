@@ -1,1 +1,6 @@
+# example how to use .gitignore with one file
 config.txt
+# example how to use .gitignore with file in folder
+data/
+# example how to use .gitignore with all file on one of extensions
+*.exe
